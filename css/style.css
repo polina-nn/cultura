@@ -123,13 +123,7 @@ body {
   justify-content: center;
   padding-top: 60px;
 }
-/*
-.navigation__list_posishion {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-*/
+
 .navigation__link {
   font-family: "Roboto";
   font-style: normal;
@@ -139,6 +133,7 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   display: inline-block;
+  color: #000000;
 }
 .navigation__link:hover,
 .navigation__link:focus,
